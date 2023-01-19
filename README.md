@@ -24,4 +24,5 @@ I'm passionate about coding and everything connected to creating software. While
 <p align="left"> <a href="https://www.github.com/sowadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/piotr-sowa-245ba8204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SowaDev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SowaDev&theme=dark&background=000000)](https://git.io/streak-stats)
