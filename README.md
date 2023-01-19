@@ -22,3 +22,7 @@ I'm passionate about coding and everything connected to creating software. While
 
 ### Socials                  
 <p align="left"> <a href="https://www.github.com/sowadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/piotr-sowa-245ba8204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-sowadev
