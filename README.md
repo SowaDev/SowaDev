@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piotr Sowa
 ==================================================================================================================================
 
-Software Developer in making
+Software Developer
 ----------------------------
 
 I'm passionate about coding and everything connected to creating software. While I'm looking for my first job in the industry, I work on my personal projects.
